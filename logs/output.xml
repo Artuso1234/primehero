@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 4.1.2 (Python 3.10.0 on win32)" generated="20211020 19:43:07.728" rpa="false" schemaversion="2">
+<suite id="s1" name="Exercicios" source="C:\Users\Andreia\Desktop\Curso Prime\tests\exercicios.robot">
+<test id="s1-t1" name="Cenario:Imprimir frase Estou no numero">
+<kw name="Imprimir frase Estou no numero">
+<msg timestamp="20211020 19:43:07.858" level="FAIL">User keyword 'Imprimir frase Estou no numero' contains no keywords.</msg>
+<status status="FAIL" starttime="20211020 19:43:07.857" endtime="20211020 19:43:07.858"/>
+</kw>
+<tag>NUMERO</tag>
+<status status="FAIL" starttime="20211020 19:43:07.855" endtime="20211020 19:43:07.859">User keyword 'Imprimir frase Estou no numero' contains no keywords.</status>
+</test>
+<doc>Neste arquivo estaram presentes todos os exercicios de automação da Prime</doc>
+<status status="FAIL" starttime="20211020 19:43:07.735" endtime="20211020 19:43:07.864"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+<stat pass="0" fail="1" skip="0">NUMERO</stat>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="Exercicios">Exercicios</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
